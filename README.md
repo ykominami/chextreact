@@ -1,4 +1,4 @@
-(次のリポジトリをテンプレートとして生成 [lxieyang/chrome\-extension\-boilerplate\-react: A Chrome Extensions boilerplate using React 18 and Webpack 5\.](https://github.com/lxieyang/chrome-extension-boilerplate-react))
+ReactではじめるChrome拡張開発入門　(次のリポジトリをテンプレートとして生成 [lxieyang/chrome\-extension\-boilerplate\-react: A Chrome Extensions boilerplate using React 18 and Webpack 5\.](https://github.com/lxieyang/chrome-extension-boilerplate-react))
 
 <img src="src/assets/img/icon-128.png" width="64"/>
 
